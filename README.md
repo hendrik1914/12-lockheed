@@ -6,7 +6,7 @@ Ini file coba menggunakan
 ini link 
 [Google](https://www.google.com/)
 
-Ini Gambar ! [image](assets/images/lockheed.png)
+Ini Gambar ![image](./assets/images/lockheed.png)
 
 
 
